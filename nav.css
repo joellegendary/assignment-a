@@ -1,0 +1,12 @@
+nav {
+  display: flex;
+  background-color: black;
+  color: goldenrod;
+  gap: 50px;
+  justify-content: space-around;
+  font-size: larger;
+  padding: 20px;
+}
+li:hover {
+  color: blue;
+}

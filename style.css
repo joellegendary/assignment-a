@@ -1,0 +1,42 @@
+h1 {
+  text-align: center;
+  font-size: xx-large;
+  font-display: 2px;
+  padding: 15px 30px;
+  background-color: rgb(160, 145, 117);
+}
+#one {
+  text-decoration: underline;
+}
+body {
+  padding: 20px;
+  background-color: rgb(220, 226, 245);
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.hero {
+  display: flex;
+  justify-content: center;
+}
+.ending {
+  text-align: center;
+}
+.bottom {
+  background-color: rgb(84, 67, 47);
+  padding: 15px;
+}
+
+table {
+  width: 80%;
+  margin: 20px auto;
+  border-collapse: collapse;
+}
+th,
+td {
+  padding: auto;
+  text-align: center;
+  border: 1px solid rgb(43, 84, 134);
+}
+
+tr :hover {
+  background-color: white;
+}
